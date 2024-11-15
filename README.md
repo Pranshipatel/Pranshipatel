@@ -1,4 +1,4 @@
-<img width="100%" src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg"/>
+<img width="130%"  src="https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-92067.jpg"/>
 
 ###
 
