@@ -1,4 +1,4 @@
-<img width="130%"  src="https://img.freepik.com/premium-vector/caucasian-female-software-developer-her-40s-debugging-program_1238364-92067.jpg"/>
+<img width="130%"  src="https://media.licdn.com/dms/image/v2/C4D12AQEx1qBflqbJMA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1599814702843?e=2147483647&v=beta&t=TiY1AaPsi4SNU6Yv5a5XWGy3snos8eKlY951I6QpXDM"/>
 
 ###
 
