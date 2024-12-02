@@ -48,9 +48,7 @@
   
 </div>
 
-<div align="center" height="50%">
-  <img src="https://streak-stats.demolab.com?user=pranshipatel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 <h2 align="center">Connect me on🤝</h2>
 <br/>
