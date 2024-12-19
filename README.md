@@ -1,6 +1,6 @@
 <img width="130%"  src="https://media.licdn.com/dms/image/v2/C4D12AQEx1qBflqbJMA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1599814702843?e=2147483647&v=beta&t=TiY1AaPsi4SNU6Yv5a5XWGy3snos8eKlY951I6QpXDM"/>
 
-##
+###
 
 <p align="center">Hello, I'm Pranshi Patel! 👩‍💻 <br/> Welcome to my GitHub profile! I'm a web developer focused on building intuitive, scalable applications. I love experimenting with new technologies and bringing ideas to life with code. <br/>I'm passionate about creating applications that solve real-world problems. From front-end design to back-end architecture, I enjoy the entire development process.
 </p>
